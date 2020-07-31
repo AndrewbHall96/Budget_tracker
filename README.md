@@ -21,6 +21,7 @@ The user is able to add expenses and deposits to their budget with or without a 
 You can access the site at: https://stark-castle-25677.herokuapp.com/
 
 ## Technology
+* Javascript
 * Express
 * Mongoose
 * Robo 3T
